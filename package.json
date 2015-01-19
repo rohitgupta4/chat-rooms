@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "Chat Server Application",
     "dependencies": {
-        "socket.io": "~1.0.0",
+        "socket.io": "~0.9.6",
         "mime": "~1.2.7"
     }
 }
